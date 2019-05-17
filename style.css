@@ -1,0 +1,19 @@
+.article{
+    margin: 50px;
+    width: 50%;
+    font-size: 22px;
+}
+
+.content{
+    display: flex;
+    justify-content: center;
+}
+
+p:first-child:first-letter{
+    color: red;
+    font-size: 55px;
+    padding-right: 8px;
+    float: left;
+    line-height: 0.9;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
